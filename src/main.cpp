@@ -5,7 +5,7 @@ int main(int argc, char *argv[])
 {
 	std::cout << "Hello world!" << std::endl;
 	
-	Log("Hello World from minghan Github test");
+	Log("Hello World from minghan Github test yes");
    
     std::cin.get();
 }
